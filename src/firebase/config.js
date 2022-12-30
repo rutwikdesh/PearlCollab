@@ -18,8 +18,6 @@ const projectFirestore = firebase.firestore()
 const projectAuth = firebase.auth()
 const projectStorage = firebase.storage()
 
-console.log(projectStorage)
-
 const timestamp = firebase.firestore.Timestamp
 
 export { projectFirestore, projectAuth, timestamp, projectStorage }
