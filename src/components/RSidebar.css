@@ -1,0 +1,29 @@
+.rsidebar {
+  width: 250px;
+  min-width: 250px;
+  padding: 30px;
+  box-sizing: border-box;
+  background: #fbfbfb;
+  color: var(--heading-color);
+}
+
+.rsidebar h2 {
+  text-align: right;
+  margin-bottom: 40px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+  font-size: 1.2em;
+}
+
+.rsidebar .rsidebar-item {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 20px auto;
+}
+
+.rsidebar .avatar {
+  margin-left: 10px;
+  width: 40px;
+  height: 40px;
+}
