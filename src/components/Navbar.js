@@ -6,7 +6,7 @@ import { useLogout } from '../hooks/useLogout'
 import { useAuthContext } from '../hooks/useAuthContext'
 
 export default function Navbar() {
-  const {logout, error, isPending} = useLogout()
+  const {logout, isPending} = useLogout()
   const { user } = useAuthContext()
 
   return (
