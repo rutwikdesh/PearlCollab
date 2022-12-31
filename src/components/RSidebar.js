@@ -12,7 +12,7 @@ export default function RSidebar() {
       {isPending && <div>Loading users...</div>}
       {error && <div className='error'>{error}</div>}
       {documents && documents.map(user=>(
-        <div key={user.id} className='rsidebar-item'>
+        <div key={user.online} className='rsidebar-item'>
             {user.online && <span className="online-user"></span>}
             <span>{user.displayName}</span>
             <Avatar src={user.photoURL} />
