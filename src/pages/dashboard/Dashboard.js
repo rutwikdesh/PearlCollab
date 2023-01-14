@@ -32,6 +32,7 @@ export default function Dashboard() {
       case 'design':
       case 'sales':
       case 'marketing':
+      case 'hr':
         return document.category === currentFilter
       default:
         return true
