@@ -2,9 +2,9 @@
 
 A modern project Management Website. Manage all your projects at one place. You can create projects, assign it to different users and even add comments to your projects.
 #### Tech Stack Used
-##### React JS
-##### Mongo DB
-##### Firebase
+React JS
+Mongo DB
+Firebase
 
 
 ## Steps to Run the App
