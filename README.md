@@ -1,6 +1,9 @@
 # PearlCollab
 
-A modern project Management Website. Manage all your projects at one place. You can create projects, assign it to different users and even add comments to your projects.
+A cutting-edge Real-Time Project Management Website built with React JS and Firebase. This innovative platform allows users to efficiently manage their projects, assign team members, and seamlessly collaborate through project comments.
+
+Users can easily track the online status of their team members, while simultaneously managing all their projects in one centralized location. Say goodbye to scattered information and hello to streamlined project management!
+
 #### Tech Stack Used
 React JS
 Mongo DB
