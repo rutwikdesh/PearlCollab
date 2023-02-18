@@ -5,10 +5,9 @@ A cutting-edge Real-Time Project Management Website built with React JS and Fire
 Users can easily track the online status of their team members, while simultaneously managing all their projects in one centralized location. Say goodbye to scattered information and hello to streamlined project management!
 
 #### Tech Stack Used
-React JS
-Mongo DB
-Firebase
-
+- Frontend: React JS
+- Database: Mongo DB
+- Hosting: Firebase
 
 ## Steps to Run the App
 
